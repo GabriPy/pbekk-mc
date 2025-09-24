@@ -1,0 +1,20 @@
+# Crash e logs
+crash-reports/
+logs/
+
+# Librerie e versioni del server
+libraries/
+versions/
+
+# File di configurazione locali / sensibili
+banned-ips.json
+banned-players.json
+ops.json
+whitelist.json
+eula.txt
+server-icon.png
+server.properties
+start.sh
+
+# Jar del server
+server.jar
